@@ -36,7 +36,7 @@ Responsive Web Design
 
 
 📬 Contact
-📧 Email: saquibusman786#gmail.com
+📧 Email: saquibusman786@gmail.com
 
 🌐 LinkedIn: linkedin.com/in/saquib-usman
 
