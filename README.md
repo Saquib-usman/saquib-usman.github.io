@@ -37,15 +37,15 @@ Responsive Web Design
 
 📬 Contact
 📧 Email: saquibusman786#gmail.com
+
 🌐 LinkedIn: linkedin.com/in/saquib-usman
+
 💻 GitHub: github.com/saquibusman
 
 📌 How to Use
 To run locally:
 
-bash
-Copy
-Edit
+
 git clone https://github.com/saquibusman/portfolio.git
 
 
