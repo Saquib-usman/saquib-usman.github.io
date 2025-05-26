@@ -43,7 +43,12 @@ bash
 Copy
 Edit
 git clone https://github.com/saquibusman/portfolio.git
+
+
 cd portfolio
+
 open index.html
+
+
 📄 License
 This project is licensed under the MIT License.
